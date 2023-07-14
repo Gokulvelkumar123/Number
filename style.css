@@ -1,0 +1,18 @@
+body{
+    background: rgb(119, 206, 148);
+}
+#container{
+    border-style:groove;
+    border-width:10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    background: wheat;
+    margin-top: 190px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
